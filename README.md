@@ -4,7 +4,12 @@ Here comes LSR (Laser Gesture Recognizer) that lets you control you presentation
 
 ### Table of Content
  * Installation
+ * Gestures
  * How it works
+ 
+#### Gestures
+  Currently following gestures are supported : 
+  ![Gestures](gestures.png)
 
 #### How it works
 This application is developed in Java with OpenCV3.
