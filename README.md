@@ -8,7 +8,6 @@ Here comes LSR (Laser Gesture Recognizer) that lets you control you presentation
  * How it works
  
 #### Gestures
-  Currently following gestures are supported : 
   ![Gestures](gestures.png)
 
 #### How it works
